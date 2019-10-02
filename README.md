@@ -1,2 +1,2 @@
-# Foodish
-An android shopping cart application for food items which pulls data from an API containing data in JSON format, and displays it with heterogeneous recyclerview.
+# GenericItemViewer
+An android App to add Items in Database along with photograph and displaying it as a cards in recyclerview
